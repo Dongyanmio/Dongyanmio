@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Dongyanmio
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dongyanmio@icloud.com
+- 👋 Hi, I’m @Dongyanmio.
+- 👀 I’m interested in Coding.
+- 🌱 I’m currently learning HTML.
+- 📫 How to reach me dongyanmio@outlook.com
 
 <!---
 Dongyanmio/Dongyanmio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
