@@ -6,7 +6,7 @@
 - 喜欢玩游戏，比如说《原神》，如果你想跟我一起玩，可以加 UID``284459282`` 来找我哦~
 - 如果你想找到我，可以发邮件给 ``dongyanmio@outlook.com``。 
 ### 🔭 技术栈
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dongyanmio&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dongyanmio&layout=compact&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Tech stack](https://skillicons.dev/icons?i=py,html,css,js,nodejs,electron)
 
