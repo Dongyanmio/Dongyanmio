@@ -8,7 +8,7 @@
 ### 🔭 技术栈
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dongyanmio&layout=compact&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
-![Tech stack](https://skillicons.dev/icons?i=py,html,css,js,nodejs,electron)
+![Tech stack](https://skillicons.dev/icons?i=py,html)
 
 ### 🛠 使用的工具
 ![Tools I use](https://skillicons.dev/icons?i=windows,powershell,vscode,github,vite,netlify,git,github,discord)
