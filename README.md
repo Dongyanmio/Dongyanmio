@@ -14,3 +14,6 @@
 ![Tools I use](https://skillicons.dev/icons?i=windows,powershell,vscode,github,vite,netlify,git,github,discord)
 
 [![Dongyanmio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dongyanmio&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+
+### ⌛️ [WakaTime](https://wakatime.com/)
+[![Dongyanmio's WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Dongyanmio&layout=compact&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
