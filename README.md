@@ -17,3 +17,12 @@
 
 ### ⌛️ [WakaTime](https://wakatime.com/)
 [![Dongyanmio's WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Dongyanmio&layout=compact&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+
+### 心田花开（广告）
+🔥心田花开钜惠来袭～～
+
+🎁冬季班最低399元，春季班限时7折起
+
+💌扫码即可了解更多详情！
+
+💓福利多多,快来和我一起学习
